@@ -3,6 +3,10 @@
 
 ### Hi there :love_you_gesture: :seedling: :fist: 
 
+[![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men)]
+
+
+
 <!--
 **Charlotte-Men/Charlotte-Men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
