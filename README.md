@@ -5,7 +5,7 @@
 
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact)
 
 
 
