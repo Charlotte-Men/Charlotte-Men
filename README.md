@@ -2,9 +2,9 @@
 
 
 # Hi there, I'm Charlotte :love_you_gesture: :seedling: :fist: 
-##### Currently `downloading` dev skills ~~with headhache~~ at ***Wild Code School***, learning JS, React, Node.
-##### Previously : Visual merchandising, Departement managing, Landscaping
-##### Side projects : Rock'n'roll, Graphic design, Analog photography
+###### Currently `downloading` dev skills ~~with headhache~~ at ***Wild Code School***, learning JS, React, Node.
+###### Previously : Visual merchandising, Departement managing, Landscaping
+###### Side projects : Rock'n'roll, Graphic design, Analog photography
 
 ## Github Stats
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true)
