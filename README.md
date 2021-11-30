@@ -1,8 +1,8 @@
 ![Header](/Bannière2021.png)
 
 
-### Hi there, I'm Charlotte :love_you_gesture: :seedling: :fist: 
-#Currently `downloading` dev skills at Wild Code School, learning JS, React, Node.
+## Hi there, I'm Charlotte :love_you_gesture: :seedling: :fist: 
+##### Currently `downloading` dev skills at Wild Code School, learning JS, React, Node.
 
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true)
 
