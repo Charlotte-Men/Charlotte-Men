@@ -4,11 +4,13 @@
 ## Hi there, I'm Charlotte :love_you_gesture: :seedling: :fist: 
 ##### Currently `downloading` dev skills ~~with headhache~~ at ***Wild Code School***, learning JS, React, Node.
 
+## Github Stats
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact)
 
-:mega: You can contact me on [LinkedIn](https://www.linkedin.com/in/charlotte-menard/)
+## Contact-me !
+:mega: Talk to me on [LinkedIn](https://www.linkedin.com/in/charlotte-menard/)
 <!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true" />
 </a>
