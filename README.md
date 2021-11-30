@@ -1,7 +1,7 @@
 ![Header](/Bannière2021.png)
 
 
-### Hi there 👋
+### Hi there 👋 :love_you_gesture: :seedling: :fist: 
 
 <!--
 **Charlotte-Men/Charlotte-Men** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
