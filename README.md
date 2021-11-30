@@ -3,7 +3,7 @@
 
 ### Hi there :love_you_gesture: :seedling: :fist: 
 
-![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby)
+![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact)
 
