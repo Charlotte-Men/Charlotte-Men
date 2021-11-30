@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact)
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/charlotte-menard/)
+:mega: You can contact me on [LinkedIn](https://www.linkedin.com/in/charlotte-menard/)
 <!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true" />
 </a>
