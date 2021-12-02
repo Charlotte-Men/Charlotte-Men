@@ -1,7 +1,7 @@
 ![Header](/Bannière2021.png)
 
 
-# Hi there, I'm Charlotte :love_you_gesture: :seedling: :fist: 
+# Hi there, I'm Charlotte :metal::seedling::fist: 
 ##### Currently `downloading` dev skills ~~with headhache~~ at ***Wild Code School***, learning JS, React, Node.
 ##### Previously : Visual merchandising, Departement managing, Landscaping
 ##### Side projects : Rock'n'roll, Graphic design, Analog photography
