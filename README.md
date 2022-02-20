@@ -2,13 +2,12 @@
 
 
 # Hi there, I'm Charlotte :metal::seedling::fist: 
-##### `Web developer` : JavaScript, React, Node, Express, SQL
+### `Web developer` : JavaScript, React, Node, Express, SQL
 ##### Former student at ***Wild Code School***
+Previously : Visual merchandising, Departement managing, Landscaping
+Side projects : Rock'n'roll, Graphic design, Analog photography
 
-##### Previously : Visual merchandising, Departement managing, Landscaping
-##### Side projects : Rock'n'roll, Graphic design, Analog photography
-
-<br><br>
+<br>
 ### Technos
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,7 +24,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 ![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-<br><br>
+<br>
 
 
 ## Github Stats
