@@ -8,6 +8,7 @@
 ##### Previously : Visual merchandising, Departement managing, Landscaping
 ##### Side projects : Rock'n'roll, Graphic design, Analog photography
 
+
 #### Technos
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,8 +25,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Illustrator](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-<br>
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+
 
 ## Github Stats
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true)
