@@ -8,8 +8,8 @@
 ##### Previously : Visual merchandising, Departement managing, Landscaping
 ##### Side projects : Rock'n'roll, Graphic design, Analog photography
 
-
-#### Technos
+<br><br>
+### Technos
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,9 +23,9 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Illustrator](https://aleen42.github.io/badges/src/photoshop.svg)
+![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 ![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-
+<br><br>
 
 
 ## Github Stats
