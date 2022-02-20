@@ -2,7 +2,7 @@
 
 
 # Hi there, I'm Charlotte :metal::seedling::fist: 
-### `Web developer` : JavaScript, React, Node, Express, SQL
+### `Web developer` JavaScript, React, Node, Express, SQL
 ##### Former student at ***Wild Code School***
 Previously : Visual merchandising, Departement managing, Landscaping <br>
 Side projects : Rock'n'roll, Graphic design, Analog photography
