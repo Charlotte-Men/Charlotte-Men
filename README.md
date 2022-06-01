@@ -33,7 +33,7 @@ Illustrator, Photoshop
 ## Github Stats
 ![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact&langs_count=7)
 
 ## Contact-me !
 :mega: Talk to me on [LinkedIn](https://www.linkedin.com/in/charlotte-menard/)
