@@ -2,15 +2,16 @@
 
 
 # Hi there, I'm Charlotte :metal::seedling::fist: 
-### `Web developer` JavaScript, React, Node, Express, SQL
+### `Web developer` TypeScript, React, Python, Django
 ##### Former student at ***Wild Code School***
 Previously : Visual merchandising, Departement managing, Landscaping <br>
 Side projects : Rock'n'roll, Graphic design, Analog photography
 <br>
 ## Technos
-JavaScript, React, HTML5, CSS3, Redux <br>
-Node.js, Express.js, MySQL <br>
-Heroku, Figma, Trello <br>
+TypeScript, JavaScript, React, HTML, CSS, Redux <br>
+Python, Django, Node.js, Express.js, MySQL <br>
+Git, Docker, Heroku, Postman <br>
+Notion, Figma, Trello <br>
 Illustrator, Photoshop
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,11 +30,11 @@ Illustrator, Photoshop
 ![Adobe Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 <br> -->
 
+ <!--## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Charlotte-Men&theme=highcontrast&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
+![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true)
 
-## Github Stats
-![Charlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlotte-Men&hide=stars&theme=great-gatsby&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Men&theme=great-gatsby&layout=compact&langs_count=7) -->
 
 ## Contact-me !
 :mega: Talk to me on [LinkedIn](https://www.linkedin.com/in/charlotte-menard/)
