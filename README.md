@@ -9,7 +9,7 @@ Side projects : Rock'n'roll, Graphic design, Analog photography
 <br>
 ## Technos
 TypeScript, JavaScript, React, HTML, CSS, Redux <br>
-Python, Django, Node.js, Express.js, MySQL <br>
+Python, Django, Node.js, Express.js, SQL <br>
 Git, Docker, Heroku, Postman <br>
 Notion, Figma, Trello <br>
 Illustrator, Photoshop
